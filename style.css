@@ -191,17 +191,17 @@ main {
     top: 2rem;
   }
   .btn--roll {
-    top: 48rem;
+    top: 45%;
     left: 20%;
     width: 100px;
   }
   .btn--hold {
-    top: 49rem;
+    top: 47%;
     left: 80%;
     width: 100px;
   }
   .dice {
-    top: 48rem;
+    top: 45%;
     left: 50%;
   }
 }
