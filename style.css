@@ -178,6 +178,8 @@ main {
   }
 }
 
+/* this media is for the mobile view */
+
 @media (max-width: 540px) {
   main {
     flex-direction: column;
